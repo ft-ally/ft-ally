@@ -1,6 +1,6 @@
 # 🌺 Hi! Kia ora! Kamusta? Alles goed?
 
-My name is Ally and I'm a Filipina-Kiwi-Dutch software engineering student based in Amsterdam. I'm currently studying at [Codam Coding College](https://codam.nl/), which is part of the [42 Network](https://en.wikipedia.org/wiki/42_(school)). I'm interested in systems programming, backend development, and building practical web applications. In my free time, you can find me either programming, creating art, or watching something from the criterion collection!
+My name is Ally and I'm a Filipina-Kiwi-(almost)Dutch software engineering student based in Amsterdam. I'm currently studying at [Codam Coding College](https://codam.nl/), which is part of the [42 Network](https://en.wikipedia.org/wiki/42_(school)). I'm interested in systems programming, backend development, and building practical web applications. In my free time, you can find me either programming, creating art, or watching something from the criterion collection!
 
 I mainly work with C and C++, building low-level projects that explore how operating systems, concurrency, and networking work under the hood.
 
