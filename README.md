@@ -5,6 +5,7 @@ My name is Ally and I'm a Filipina-Kiwi-(almost)Dutch software engineering stude
 I mainly work with C and C++, building low-level projects that explore how operating systems, concurrency, and networking work under the hood.
 
 **🔧 Current projects:**<br>
+**getHomeSafe** - Safety-focused routing app using TomTom Maps SDK with planned features including route planning, location tracking, and real-time sharing <br>
 **webserv** – building an HTTP/1.1 web server from scratch in C++<br>
 **codamHero** – contributing to the UI redesign of one of Codam's internal platforms<br>
 
