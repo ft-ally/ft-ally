@@ -1,6 +1,6 @@
 # 🌺 Hi! Kia ora! Kamusta? Alles goed?
 
-My name is Ally, and I'm a Filipina-Kiwi-(almost) Dutch software engineering student based in Amsterdam. I'm currently studying at [Codam](https://codam.nl/),, which is part of the 42 Network. I'm passionate about clean software design and architecture, full-stack development, and working on projects where I can learn something new.
+My name is Ally, and I'm a Filipina-Kiwi-(almost) Dutch software engineering student based in Amsterdam. I'm currently studying at [Codam](https://codam.nl/), which is part of the 42 Network. I'm passionate about clean software design and architecture, full-stack development, and working on projects where I can learn something new.
 
 I mainly work with C and C++ at Codam, while expanding my skills in JavaScript, C#, .NET, and Angular to explore full-stack development. In my free time, you can find me programming, creating art, or watching films from the Criterion Collection.
 
